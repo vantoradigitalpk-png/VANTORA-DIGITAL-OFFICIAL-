@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title id="title">Vantora Digital brand identity showcase</title><desc id="desc">A premium black and red brand identity presentation with logo, typography, colors, and social media mockups.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08090d"/><stop offset=".55" stop-color="#171018"/><stop offset="1" stop-color="#050608"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff7278"/><stop offset=".45" stop-color="#f12735"/><stop offset="1" stop-color="#a9091c"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#aeb3bd"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#f12735" stop-opacity=".35"/><stop offset="1" stop-color="#f12735" stop-opacity="0"/></radialGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000" flood-opacity=".55"/></filter>
+</defs>
+<rect width="1200" height="760" fill="url(#bg)"/><circle cx="930" cy="180" r="380" fill="url(#glow)"/>
+<path d="M0 610 390 220M860 760 1200 420" stroke="#f12735" stroke-opacity=".4" stroke-width="3"/><path d="M0 640 420 220" stroke="#ff8a8f" stroke-opacity=".25" stroke-width="1"/>
+<g transform="translate(66 68)"><text x="0" y="0" fill="#ff5662" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="6">VANTORA DIGITAL / BRAND SYSTEM</text><rect x="0" y="25" width="1068" height="1" fill="#f12735" opacity=".6"/></g>
+<!-- Brand mark -->
+<g transform="translate(235 190) scale(.9)" filter="url(#shadow)"><path d="M-95 -100 -22 -100 38 2 -22 42Z" fill="#14161b" stroke="#757b86" stroke-width="4"/><path d="M-22 20 120 -92 300 -135 130 -35 -7 106Q-29 122 -47 94L-77 53Q-93 31 -22 20Z" fill="url(#red)" stroke="#ff6973" stroke-width="3"/><path d="M45 6 130 -35 88 90 -5 130Z" fill="#0e1014" stroke="#424650" stroke-width="4"/></g>
+<text x="500" y="240" fill="url(#silver)" font-family="Arial,sans-serif" font-size="63" font-weight="800" letter-spacing="3">VANTORA</text><text x="503" y="300" fill="#ff3544" font-family="Arial,sans-serif" font-size="27" font-weight="700" letter-spacing="15">DIGITAL</text><text x="503" y="338" fill="#c9cbd2" font-family="Arial,sans-serif" font-size="14" letter-spacing="5">IDEAS  /  STRATEGY  /  GROWTH</text>
+<!-- palette -->
+<text x="72" y="435" fill="#f5f5f7" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="3">CORE PALETTE</text>
+<g transform="translate(72 460)"><rect width="160" height="88" rx="10" fill="#050608" stroke="#363840"/><text x="0" y="112" fill="#c8cbd1" font-family="Arial,sans-serif" font-size="13">MIDNIGHT</text><text x="0" y="132" fill="#8f949e" font-family="Arial,sans-serif" font-size="12">#050608</text>
+<rect x="185" width="160" height="88" rx="10" fill="#f12735"/><text x="185" y="112" fill="#c8cbd1" font-family="Arial,sans-serif" font-size="13">SIGNATURE RED</text><text x="185" y="132" fill="#8f949e" font-family="Arial,sans-serif" font-size="12">#F12735</text>
+<rect x="370" width="160" height="88" rx="10" fill="#c8cbd1"/><text x="370" y="112" fill="#c8cbd1" font-family="Arial,sans-serif" font-size="13">SILVER</text><text x="370" y="132" fill="#8f949e" font-family="Arial,sans-serif" font-size="12">#C8CBD1</text></g>
+<!-- social mockup cards -->
+<g transform="translate(760 420)" filter="url(#shadow)"><rect width="360" height="250" rx="18" fill="#111319" stroke="#3b2028"/><rect x="18" y="18" width="324" height="144" rx="12" fill="#1a0d12" stroke="#f12735" stroke-opacity=".55"/><circle cx="290" cy="58" r="75" fill="url(#glow)"/><text x="38" y="54" fill="#ff5964" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">MAKE YOUR MARK</text><text x="38" y="94" fill="#fff" font-family="Arial,sans-serif" font-size="26" font-weight="700">BUILT FOR</text><text x="38" y="125" fill="#ff3544" font-family="Arial,sans-serif" font-size="26" font-weight="700">GROWTH.</text><rect x="18" y="180" width="36" height="36" rx="8" fill="url(#red)"/><text x="67" y="194" fill="#f3f4f6" font-family="Arial,sans-serif" font-size="14" font-weight="700">VANTORA DIGITAL</text><text x="67" y="214" fill="#8f949e" font-family="Arial,sans-serif" font-size="11">SOCIAL CREATIVE SYSTEM</text></g>
+<text x="72" y="720" fill="#8e929b" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">VISUAL IDENTITY • DIGITAL DESIGN • BRAND CONSISTENCY</text>
+</svg>
